@@ -1,4 +1,4 @@
-# online-booking-programming
+# online-booking-system
 
 This is an online booking system for a doctor's surgery, and is created in c++ language. 
 You may need Visual Code Studio or Code Blocks with installed/functioning compiler.

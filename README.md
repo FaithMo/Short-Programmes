@@ -8,3 +8,6 @@ You can also compile and run this code on the terminal using the following comma
 `g++ booking_system.cpp` //this is for compiling the file.
 
 `./a.out` //this is for running the file.
+
+
+This program has abilities to validate time and date and stores bookings incase of any double bookings. 
